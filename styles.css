@@ -88,3 +88,24 @@ a:hover{
 .h3{
     font-size: 40px;
 }
+
+
+
+/* map */
+.map{
+    width: 800px;
+    height: 400px;
+    background: #000;
+}
+.map2{
+    width: 50%;
+    height: 500px;
+    background-color: aqua;
+}
+
+
+.vidbg{
+    background-image: url('assets/video-bg.jpg');
+    position: absolute;
+    height: 800px;
+}
